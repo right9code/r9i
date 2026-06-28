@@ -40,6 +40,7 @@ levels:
 - 13. Setup Community plugins
     - On Trial
 ```
+
 ## 1. Setup `obsidian-ghostly-terminal` plugin :
 - Install [obsidian-ghostty-terminal](obsidian://show-plugin?id=ghostty-terminal) plugin
 - Create a folder `00 - Unsorted` in vault root 								
@@ -62,7 +63,7 @@ mkdir -p "00 - Unsorted"
 - Install [Git Vault Sync](obsidian://show-plugin?id=git-vault-sync) plugin
 - Paste your PAT in the field
 ```secret-lock
-JMIJpOoyGBe2moCDqY5puV7H2LSSaYUy8KCo5ednLqfa9kqzwtnokfJXXRbI23Mj6AE7kAlh8MJFw/Zt734Igo6FpwuL9bmtW/sTHGkHJIMOsEnUk57Rem68mJttsxZcdCnBYb4rR8d2SDWZGD/ycPirysEO3hw70abTeFu5e/LVainrQCsgImY=
+1newAHCud/V5EIIewjPAl1MkEsJYAdQ7E6srvSh7Cz3Nyc/uDbBAnrZp5x3EsyXNWYeJHtP7lq7+EctGZteJPOYrv2vpncqPoK7/k9GOEzyf/t0c82NJPi5umBZZt18zaBi6GvKsCU1gopbdliop9c/fp8VtmaoMZCi6a/JpiXp0W86dzNFiQB0=
 ```
 - Select the repo and Set author name to recognize different devices `r9PCx`
 	- Add following to `Excluded files & folders`:
@@ -322,7 +323,10 @@ rm -rf create_00unsorted_folders.sh
 	- Check `Message History`
 	- [x] ==InlineAI: Show cursor tooltip==: Ctrl+Alt+K
 10. [(Marker PDF to MD) OCR-AI](obsidian://show-plugin?id=marker-api) by *L3NOX*
-	- MinstralAI API Key: `geoxg71rObMIqhTFHHqtOmpHm5Vpim07T`
+	- MinstralAI API Key: 
+	```secret-lock
+	dg48Y0JxQKSbMg4qpcMz3ElGXu9WRybtknUM2eWqkzXLuYKVvKdr/zalbX74WdHvW/genk0NuIot4mNbfZbSdFWt5CG2rdcX+txSDw==
+	```
 11. [Paste image rename and convert](obsidian://show-plugin?id=paste-image-rename-convert) by *yiaos*
 	- Duplicate number delimiter `_`
 	- Check `Handle all attachments
