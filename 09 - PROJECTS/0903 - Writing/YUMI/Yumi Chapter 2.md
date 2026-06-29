@@ -1,0 +1,8 @@
+"So you can think." that was a compliment I thought was appropriate for the way i behave, 
+On these random chats on stranger where the most amount of time you would find the free country activist with hands between their legs and IQ hitting 20 points deficiency if they had any, Well I could have been one of them If I wasn't this idealist in my head, I want it to happen but I should feel a connection, I wont beg for it, I won't it to be compliment to my personality rather than some urge that already exist, but does that happen no at all instead I end up being in the counselor shoes trying to use my brain to analyse and understand other people to provide a relief I don't have but then maybe they might help back to relieve a lil of mine too, not many are smart enough for me to listen, and I just cant take help from some one who i just helped that is just not me, 
+but then I sometimes think I can feel what others feel as they express themselves, and that becomes my suffering so am i really helping people or just adding more sadness to mine, but I think not a lot of people would be able to deal with things like that as gracefully as i can,
+"might be a justification to a addiction might not, I do have a addiction to phone, internet, masturbation, romanticising he sadness at times in poetry, and i read" thats what i said.
+Well I have one of those likable voices at times thats why probably people skip the blank screen in front a lot less at times.
+
+That's how I met her. well I talk a lot about myself even though its about her, well all i can tell you is what i thought and felt as honest as possible.
+

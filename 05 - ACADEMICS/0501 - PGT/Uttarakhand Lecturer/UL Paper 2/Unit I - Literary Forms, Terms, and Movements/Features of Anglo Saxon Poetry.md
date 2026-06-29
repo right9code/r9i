@@ -1,0 +1,310 @@
+# Features of Anglo Saxon Poetry
+
+1. **Oral Tradition Roots**:
+	- **Formulaic Phrases**: Repetitive phrases used for common ideas, aiding memory and performance.
+		- **"Speaking" Formula**: Often {Name} maþelode, {Descriptor/Lineage} ("X spoke, Y").
+			- **Beowulf**:
+			    - **Old English**: "Beowulf maþelode, bearn Ecgþeowes"
+			    - **Phonetic Respelling**: {BAY-oh-wolf MATH-el-oh-deh, BEY-arn EDGE-they-ow-ess}
+			    - **Translation**: (Beowulf spoke, son of Ecgtheow)
+			- **Beowulf**:
+			    - **Old English**: "Hroðgar maþelode, helm Scyldinga"
+			    - **Phonetic Respelling**: {HROTH-gar MATH-el-oh-deh, HELM SHIELD-ing-ah}
+			    - **Translation**: (Hrothgar spoke, protector of the Scyldings)
+			- **Judith**: (Though using a different verb, the introductory pattern is similar)
+			    - **Old English**: "Iudith þa, gleaw on geðonce..." (followed by her speech)
+			    - **Phonetic Respelling**: {YOO-dith thah, GLAY-ow on yeh-THONK-eh...}
+			    - **Translation**: (Judith then, wise in thought...)
+		- **"Opening" Formula:** Poems often begin with an attention-grabbing word like "Hwæt!" ("Listen! / So! / What!").
+			- **Beowulf**:
+			    - **Old English**: "Hwæt! We Gardena in geardagum..."
+			    - **Phonetic Respelling**: {HWAT! Way GAR-day-nah in YAIR-dah-gum...}
+			    - **Translation**: (Listen! We of the Spear-Danes in days of yore...)
+			- **The Dream of the Rood**:
+			    - **Old English**: "Hwæt! Ic swefna cyst secgan wylle..."
+			    - **Phonetic Respelling**: {HWAT! Itch SWEV-nah KIST SEDGE-an WILL-leh...}
+			    - **Translation**: (Listen! I the best of dreams wish to tell...)
+			- **Andreas**:
+			    - **Old English**: "Hwæt! We gefrunon on fyrndagum..."
+			    - **Phonetic Respelling**: {HWAT! Way yeh-FROO-non on FIRN-dah-gum...}
+			    - **Translation**: (Listen! We have heard in former days...)
+		- **"Time Passing / Transition" Formula**: Phrases indicating sequence or the passage of time.
+			- **Beowulf**:
+			    - **Old English**: "Þa com of more under misthleoþum"
+			    - **Phonetic Respelling**: {THAH kōm ov MOH-reh un-der MIST-hlay-oh-THUM}
+			    - **Translation**: (Then came from the moor under misty slopes) - Introduces Grendel's arrival.
+			- **Beowulf**:
+			    - **Old English**: "Him þa Scyld gewat to gescæphwile"
+			    - **Phonetic Respelling**: {Him thah SHIELD yeh-WAHT toh yeh-SHAP-whee-leh}
+			    - **Translation**: (Then Scyld departed at the destined time) - Marking his death.
+	- **Stock Scenes**: Repeated story events told with standard details that the audience knows well.
+		- **The Feast / Mead-Hall Scene**: A central social event.
+		    - **Elements**: Lord on high seat, warriors (thanes) on benches, sharing of mead/ale, gift-giving, boasts (gylp), speeches, entertainment by the scop (poet/singer), potential for challenges or conflict.
+		    - **Examples**:
+		        - **Beowulf**: Scenes in Hrothgar's hall, Heorot, are classic examples – celebration after building the hall, the feast before Beowulf fights Grendel, the celebration after Grendel's defeat where gifts are given and songs sung, Beowulf's homecoming feast with Hygelac.
+		        - **Judith**: The grim feast held by the Assyrian general Holofernes, showing excessive drinking and arrogance before Judith kills him.
+		- **The Arming Scene**: A warrior preparing for battle.
+		    - **Elements**: Donning the mail-coat (byrnie), helmet, taking up shield and sword/spear. Often emphasizes the quality, history, or brightness of the gear. Symbolizes readiness and commitment.
+		    - **Examples**:
+		        - **Beowulf**: Beowulf arming himself before descending into the mere to fight Grendel's Mother (lines 1441b-1472). The description focuses on his impenetrable mail-shirt, gleaming helmet, and the named sword Hrunting.
+		        - **The Battle of Maldon**: While less detailed, the poem describes warriors grasping shields and spears, preparing for the Viking assault.
+		- **The Sea Voyage**: Journeys across water.
+		    - **Elements**: Boarding the ship (wudu/naca/bāt), the well-equipped vessel, wind (wind/weder), waves (yþa/brim), foam (famig), the hardships or swiftness of the journey, arrival.
+		    - **Examples**:
+		        - **Beowulf**: Beowulf's journey to Denmark (lines 210-228) describes the ship eager, foam-necked, flying like a bird over the waves. His return journey is also described.
+		        - **The Seafarer**: The entire poem is structured around the experience and ambivalent feelings towards sea voyages, detailing ice, hail, waves, and the cries of sea birds.
+		        - **Andreas**: Features St. Andrew's miraculous sea journey, guided by Christ in disguise.
+		- **The Funeral Scene**: Mourning and disposing of the dead, especially a leader.
+		    - **Elements**: Lamentation by followers/family, construction of a funeral pyre or burial mound (barrow), placement of treasure and weapons with the body, elegiac reflections on the leader's life and the future of the people.
+		    - **Examples**:
+		        - **Beowulf**: Opens with the ship funeral of Scyld Scefing, where treasures are placed on a ship set adrift. Ends with the elaborate funeral pyre and barrow built for Beowulf, accompanied by mourning and prophecies of doom for the Geats.
+		        - **The Wanderer**: While not a full scene, the poem evokes the memory of burying a lord: 
+		            - **Old English**: "sumne fugel oþbær / ofer heanne holm, sumne se hara wulf / deaðe gedælde, sumne dreorighleor / in eorðscræfe eorl gehydde." 
+		            - **Phonetic Respelling**: {SOOM-neh FOO-yel OTH-baer / OH-ver HAY-an-neh HOLM / SOOM-neh seh HAH-rah WOOLF / DAY-ah-theh yeh-DAEL-deh / SOOM-neh DRAY-oh-ree-hlay-or / in AY-orth-SKRAE-feh AY-orl yeh-HUD-deh} 
+		            - **Translation**: (One a bird bore off / over the high sea, one the hoary wolf / shared with death, one dreary-faced / an earl hid in an earth-cave.)
+	- **Repetition and Variation**: restating a single concept, person, or object using different words or phrases in close proximity.
+		- **Varying Nouns (People/Objects)**:
+			- **Beowulf**, describing Hrothgar:
+			    - **Old English**: "...Hroðgar maþelode, **helm Scyldinga**:" (line 456) ... later, he is the **beaga bryttan** (line 35, 1487 etc. - giver of rings), **gamolfeax ond guðrof** (line 608 - grey-haired and battle-brave), **folces hyrde** (line 610 - shepherd of the people).
+			    - **Phonetic Respelling**: {...HROTH-gar MATH-el-oh-deh, **HELM SHIELD-ing-ah**:} ... **BAY-ah-gah BRÜT-tahn** ... **GAH-mol-fay-ax ond GOOTH-rohv** ... **FOL-kess HÜR-deh**
+			    - **Translation**: (Hrothgar spoke, **protector of the Scyldings** ... **giver of rings** ... **grey-haired and battle-brave** ... **shepherd of the people**.) - Multiple epithets for the same king.
+			- **The Dream of the Rood**, describing the Cross:
+			    - **Old English**: "Puhte me þæt ic gesawe **syllicre treow** / on lyft lædan, leohte bewunden, / **beama beorhtost**." (lines 4-6) ... later called **sigebeam** (line 13 - victory-tree), **wuldres treo** (line 14 - tree of glory), **fuse beacen** (line 21 - ready beacon).
+			    - **Phonetic Respelling**: {POOHK-teh meh that itch yeh-SAH-weh **SÜL-lik-reh TRAY-ow** / on LÜFT LĀ-dan, LAY-ohk-teh beh-WUN-den, / **BAY-ah-mah BAY-ork-tost**.} ... **SIG-eh-bay-ahm** ... **WUL-dress TRAY-oh** ... **FOO-seh BAY-ah-ken**.
+			    - **Translation**: (It seemed to me that I saw a **most wondrous tree** / lifted in the air, wound with light, / **brightest of beams**. ... **victory-tree** ... **tree of glory** ... **ready beacon**.) - Different terms for the Cross.
+		- **Varying Verbs/Actions**:
+		    - **Beowulf**, describing Grendel's approach:
+		        - **Old English**: "**Com** on wanre niht / **scriðan** sceadugenga." (lines 702b-703a)
+		        - **Phonetic Respelling**: {**Kohm** on WAHN-reh nikht / **SKREE-than** SHAY-ah-doo-gen-gah.}
+		        - **Translation**: (**Came** in the dark night / **gliding**, the shadow-goer.) - Two verbs/phrases describing the movement.
+		    - **The Battle of Maldon**, describing a warrior's resolve:
+		        - **Old English**: "He **nolde fleogan** fotmæl landes, / ofer bæc **bugan**, þa his betera leg." (lines 246-247)
+		        - **Phonetic Respelling**: {Heh **NOL-deh FLAY-oh-gan** FOTE-māl LAHN-dess, / oh-ver BAK **BOO-gahn**, thah hiss BET-eh-rah LAY.}
+		        - **Translation**: (He **would not flee** a foot's space of land, / nor **turn back**, when his better {lord} lay dead.) - Two phrases expressing the refusal to retreat.
+		- **Varying Concepts/Situations:**
+		    - **The Wanderer**, describing desolation and loss:
+		        - **Old English**: "**Eald enta geweorc** idlu stodon... / **Woriað þa winsalo**, waldend licgað / **dreame bidrorene**, duguþ eal gecrong," (lines 87-89)
+		        - **Phonetic Respelling**: {**AY-ald EN-tah yeh-WAY-ork** ID-loo STOH-don... / **WOR-ee-ath thah WIN-sah-loh**, WAHL-dend LIK-gath / **DRAY-ah-meh bih-DRO-reh-neh**, DOO-gooth AY-all yeh-KRONG,}
+		        - **Translation**: (The **old work of giants** stood empty... / The **wine-halls crumble**, lords lie / **deprived of joy**, the whole company has fallen,) - Multiple phrases depicting ruin and the absence of life and joy.
+		    - **The Seafarer**, describing the Misery and Hardship of Winter at Sea:
+		        - **Old English**: "**Calde geprungen** / wæron mine fet, **forste gebunden**, / **caldum clommum**, þær þa **ceare seofedun** / **hat' umb heortan**; **hungor innan slat** / merewerges mod." (lines 8b-12a)
+		        - **Phonetic Respelling**: {**KAL-deh yeh-PRUNG-en** / WĀ-ron MEE-neh FAYT, **FORS-teh yeh-BUND-en**, / **KAL-dum KLOM-mum**, thār thah **KAY-ah-reh SAY-oh-veh-dun** / **HAHT umb HAY-or-tan**; **HUNG-or IN-nan SLAHT** / MEH-reh-WAYR-yes MŌD.}
+		            
+		        - **Translation**: (My feet were **pinched by cold**, / **bound by frost**, / **in cold fetters**, where **cares then sighed** / **hot about my heart**; **hunger inwardly tore** / the sea-weary one's spirit.) - Multiple phrases depict the physical constraint of cold ("pinched by cold," "bound by frost," "cold fetters"), the internal emotional distress ("cares sighed hot about my heart"), and physical deprivation ("hunger inwardly tore"). All contribute to the concept of extreme hardship.
+2. **Alliteration**: (Repetition of initial sounds - consonants or any vowel)
+	- **Beowulf**:
+	    - **Old English**: "**F**eond on **h**elle; // wæs se **g**rimma **g**æst **G**rendel haten"
+	    - **Phonetic Respelling**: {**F**AY-ond on **H**EL-leh; // wass seh **G**RIM-mah **Y**AST **G**REN-del HAH-ten}
+	    - **Translation**: (A **f**iend from **h**ell; // the **g**rim **g**uest was **G**rendel called) - Note alliteration on 'G' in the second half-line. Vowels alliterate with any vowel.
+	- **Beowulf**:
+	    - **Old English**: "**G**rendel **g**ongan, // **G**odes yrre bær"
+	    - **Phonetic Respelling**: {**G**REN-del **G**ONG-ahn, // **G**OH-dess IR-reh BAHR}
+	    - **Translation**: (**G**rendel **g**oing, // **G**od's anger he bore)
+	- **The Seafarer**:
+	    - **Old English**: "**N**ap nihtscua, // **n**orþan sniwde"
+	    - **Phonetic Respelling**: {**N**AHP NIHT-shoo-ah, // **N**ORTH-ahn SNEE-oo-deh}
+	    - **Translation**: (**N**ight-shadow **n**eatened (darkened), // from the **n**orth it snowed)
+	- **The Wanderer**:
+	    - **Old English**: "**O**ft him **a**nhaga // **a**re gebideð"
+	    - **Phonetic Respelling**: {**O**FT him **AH**n-hah-gah // **AH**-reh yeh-BEE-deth}
+		- **Translation**: (**O**ften the **a**lone-dweller // **a**waits grace/mercy)
+3. **Caesura**: (Strong pause dividing the line into two half-lines)
+	- **Beowulf**: 
+	    - **Old English**: "Gewat ða neosian, || syþðan niht becom,"
+	    - **Phonetic Respelling**: {yeh-WAHT thah NAY-oh-see-an, || SITH-than niht be-KOHM,}
+	    - **Translation**: (He departed then to visit, || after night had come,)
+	- **The Dream of the Rood**:
+	    - **Old English**: "Hwæt! Ic swefna cyst || secgan wylle,"
+	    - **Phonetic Respelling**: {HWAT! Itch SWEV-nah KIST || SEDGE-an WILL-leh,}
+	    - **Translation**: (Listen! I the best of dreams || wish to tell,)
+	- **The Battle of Maldon**:
+	    - **Old English**: "Bordweal clufon, || and þa beornas trymedon."
+	    - **Phonetic Respelling**: {BORD-way-all KLOO-von, || and thah BAY-or-nahs TRÜM-eh-don.} (ü sounds like German 'ü' or French 'u')
+	    - **Translation**: (Shield-wall they clove, || and the warriors encouraged.)
+4. **Four-Stress Line**: (Typically two strong stresses per half-line)
+    - **Beowulf**:
+        - **Old English**: "**HWÆT**! We **GAR**dena || in **GEAR**dagum,"
+        - **Phonetic Respelling**: {**HWAT**! Way **GAR**-day-nah || in **YAIR**-dah-gum,}
+        - **Translation**: (**LIS**ten! We of the **SPEAR**-Danes || in **DAYS** of yore,)
+    - **The Wanderer**:
+        - **Old English**: "**OFT** him an**HA**ga || **A**re ge**BI**deð,"
+        - **Phonetic Respelling**: {**OFT** him ahn-**HAH**-gah || **AH**-reh yeh-**BEE**-deth,}
+        - **Translation**: (**OF**ten the lone-**DWEL**ler || **A**waits **GRACE**,)
+    - **Beowulf**:
+        - **Old English**: "**ÐA** com of **MO**re || under **MIST**hleo**ÞUM**"
+        - **Phonetic Respelling**: {**THAH** kōm ov **MOH**-reh || un-der **MIST**-hlay-oh-**THUM**}
+        - **Translation**: (**THEN** came from the **MOOR** || under **MIS**ty **SLOPES**)
+5. **Kennings**: Compound metaphorical expressions
+    - **Sea**:
+        - **Old English**: hron-rād / **Phonetic Respelling**: {HRON-RAHD} / **Translation**: (whale-road)
+        - **Old English**: ganotes bæð / **Phonetic Respelling**: {GAH-no-tess BATH} / **Translation**: (gannet's bath)
+    - **Ship**:
+        - **Old English**: sǣ-wudu / **Phonetic Respelling**: {SĀ-woo-doo} / **Translation**: (sea-wood)
+        - **Old English**: brim-hengest / **Phonetic Respelling**: {BRIM-hen-gest} / **Translation**: (wave-stallion)
+    - **Body**:
+        - **Old English**: bān-hūs / **Phonetic Respelling**: {BAHN-HOOS} / **Translation**: (bone-house)
+        - **Old English**: lic-hama / **Phonetic Respelling**: {LIK-hah-mah} / **Translation**: (body-covering)
+    - **King/Lord**:
+        - **Old English**: beag-gifa / **Phonetic Respelling**: {BAY-ahg YIF-ah} / **Translation**: (ring-giver)  
+        - **Old English**: sinces brytta / **Phonetic Respelling**: {SIN-kess BRÜT-tah} / **Translation**: (treasure-divider)
+    - **Battle**:
+        - **Old English**: ecg-plega / **Phonetic Respelling**: {EDGE-pleh-gah} / **Translation**: (edge-play)
+        - **Old English**: lind-plega / **Phonetic Respelling**: {LIND-pleh-gah} / **Translation**: (shield-play)
+    - **Sword:**
+        - **Old English**: beado-lēoma / **Phonetic Respelling**: {BAY-ah-doh LAY-oh-mah} / **Translation**: (battle-light)
+        - **Old English**: hilde-nædl / **Phonetic Respelling**: {HIL-deh-NĀD-el} / **Translation**: (battle-needle)
+    - **Sun:**
+        - **Old English**: woruldcandel / **Phonetic Respelling**: {WOR-uld-kan-del} / **Translation**: (world-candle)
+        - **Old English**: heofones gim / **Phonetic Respelling**: {HEH-oh-vo-ness YIM} / **Translation**: (heaven's gem) 
+6. **Litotes**: (Affirming something by denying the contrary instead of stating it directly)
+    - **Beowulf**, describing the mere where Grendel's mother lives:
+        - **Old English**: "No þæt heoru stow."
+        - **Phonetic Respelling**: {Noh that HAY-oh-roo stoh.}
+        - **Translation**: (That is no pleasant place.) 
+        - **Meaning**: It's horrific.
+    - **Beowulf**, praising a sword after a tough fight:
+        - **Old English**: "næs seo ecg fracod"
+        - **Phonetic Respelling**: {Nass say-oh EDGE FRAH-kod}
+        - **Translation**: (the edge was not useless)
+        - **Meaning**: It was very effective.
+    - **The Battle of Maldon**, describing a difficult spear throw:
+        - **Old English**: "Ne wearð þæt na se feohterne fugel"
+        - **Phonetic Respelling**: {Neh way-arth that nah seh FAY-ohk-ter-neh FOO-yel}
+        - **Translation**: (That was not the feathery bird)
+        - **Meaning**: The spear flew straight and hard, not weakly like a bird.
+7. **Heroic Code & Themes:**
+    - **Loyalty (Comitatus):** 
+	    - Wiglaf's speech in **Beowulf** shaming the cowards. 
+	    - The choice of Byrhtnoth's men in **The Battle of Maldon** to die avenging their lord.
+    - **Courage:** 
+	    - Beowulf fighting monsters single-handedly. 
+	    - The defiance of the Anglo-Saxons in **The Battle of Maldon** against superior odds.
+    - **Generosity:** 
+	    - Hrothgar rewarding **Beowulf** lavishly. 
+	    - **Beowulf** distributing treasure upon his return.
+    - **Fame/Reputation (Lof and Dom):**
+	    - **Beowulf**:
+	        - **Old English**: "wyrce se þe mote / **domes** ær deþe!"
+	        - **Phonetic Respelling**: {WIR-cheh seh theh MOH-teh / **DOH-mess** AIR DAY-theh!}
+	        - **Translation**: (let him who may achieve / **glory** before death!)
+	    - **Beowulf**: (Closing lines)
+	        - **Old English**: "cwædon þæt he wære wyruldcyninga / manna mildust ond monðwærust, / leodum liðost ond **lofgeornost**." (lines 3180-3182)
+	        - **Phonetic Respelling**: {KWĀ-don that heh WĀ-reh WÜR-uld-KÜN-ing-ah / MAN-nah MIL-dust ond MONTH-WĀ-rust, / LAY-oh-dum LITH-ost ond **LOF-yay-or-nost**}
+	        - **Translation**: (said that he was of world-kings / the mildest of men and the gentlest, / kindest to his people and **most eager for fame**.)
+	    - **Maxims I**:
+	        - **Old English**: "**Lof** se gewyrceð, se þe wel þenceð."
+	        - **Phonetic Respelling**: {**LOF** seh yeh-WIR-keth, seh theh well THEN-keth.}
+	        - **Translation**: (He gains **praise**, who thinks well.)
+	    - **The Seafarer**:
+		    - **Old English**: "Forþon þæt bið eorla gehwam æftercweþendra / **lof lifgendra lastworda betst**, / þæt he gewyrce, ær he on weg scyle, / fremum on foldan wið feonda niþ, / deorum dædum deofle togeanes, / þæt hine ælda bearn æfter hergen, / ond his **lof siþþan lifge mid englum** / awa to ealdre, **ecan lifes blæd**, / dream mid dugeþum." (lines 72-80a)
+	        - **Phonetic Respelling**: {FOR-thon that bith AY-or-lah yeh-HWAM AF-ter-kweth-EN-drah / **LOF LIV-yen-drah LAST-wor-dah BEST**, / that heh yeh-WIR-cheh, AIR heh on WEG SHÜ-leh, / FREM-mum on FOL-dan with FAY-on-dah NEETH, / DAY-oh-rum DĀ-dum DAY-ov-leh toh-YAY-ness, / that HIN-eh EL-dah BAY-arn AF-ter HER-yen, / ond hiss **LOF SITH-than LIV-yeh mid ENG-lum** / AH-wah toh AY-al-dreh, **EH-kan LEE-vess BLĀD**, / DRAY-am mid DOO-yeh-thum.}
+	        - **Translation**: (Therefore, for every man, the praise of the living, / of those who speak afterwards, is the **best final word**, / that he should strive, before he must go on his way, / perform brave deeds on earth against the malice of fiends, / bold actions against the devil, / so that the children of men may praise him afterwards, / and his **praise may then live among the angels** / forever and ever, the **glory of eternal life**, / joy with the heavenly hosts.)
+    - **Vengeance:** 
+	    - **Beowulf**:
+		    - Grendel's mother seeking retribution for her son's death. 
+
+	    - **The Battle of Maldon**:
+		    - Ælfwine speaks of his duty to avenge their fallen lord Byrhtnoth at Maldon.
+    - **Wyrd (Fate):**
+	    - **Beowulf**:
+	        - **Old English**: "Gæð a **wyrd** swa hio scel!"
+	        - **Phonetic Respelling**: {Gayth ah **WIRD** swah HEE-oh SHELL!}
+	        - **Translation**: (**Fate** goes ever as it must!)
+	    - **The Wanderer**:
+		    - **Old English**: "**Wyrd** bið ful aræd!" (line 5b)
+	        - **Phonetic Respelling**: {**WIRD** bith full ah-RĀD}
+	        - **Translation**: (**Fate** is wholly inexorable!)
+	    - **The Ruin**:
+		    - **Old English**: "Wrætlic is þes wealstan, **wyrde gebræcon**; / burgstede burston, brosnað enta geweorc." (lines 1-2)
+	        - **Phonetic Respelling**: {WRAT-lik iss thess WAY-all-stahn, **WIR-deh yeh-BRĀ-kon**; / BURKH-sted-eh BUR-ston, BROS-nath EN-tah yeh-WAY-ork}
+	        - **Translation**: (Wondrous is this wall-stone, **fates broke it**; / the city-place burst apart, the work of giants decays.)
+8. **Elegiac Tone**: (Pervasive sense of loss, transience, sorrow, nostalgia, Ubi Sunt)
+	- Many poems (The Wanderer, The Seafarer, The Ruin, parts of Beowulf) lament lost joys, companions, lords, the decay of the world, and the pains of exile.
+		- **The Wanderer**: (Loneliness of Exile)
+			- **Old English**: "Oft ic sceolde ana uhtna gehwylce / mine ceare cwiþan."
+			- **Phonetic Respelling**: {Oft ich SHOL-deh AH-nah OOKHT-nah yeh-HWIL-cheh / MEE-neh CHÉ-ah-reh KWEE-than.}
+			- **Translation**: (Often I had alone each dawn / to lament my sorrow.)
+		- **The Wanderer**: (Memory of Lost Companions)
+			- **Old English**: "þinceð him on mode þæt he his mondryhten / clyppe ond cysse, ond on cneo legge / honda ond heafod, swa he hwilum ær / in geardagum giefstolas breac."
+			- **Phonetic Respelling**: {THIN-cheth him on MOH-deh thæt heh his MON-drükh-ten / KLÜP-peh ond KÜS-seh, ond on KNEH-oh LEJ-jeh / HON-dah ond HÉ-ah-vod, swah heh HWEE-lum ær / in YÉ-ar-DAH-ghum YEF-stoh-lahs BRÉ-ak.}
+			- **Translation**: (It seems to him in his mind that he his lord / embraces and kisses, and on his knee lays / hands and head, just as he sometimes before / in days of yore enjoyed the gift-throne.)
+		- **The Seafarer**: (Lament for the Decay of the World/Earthly Joys)
+			- **Old English**: "Yldo him on fareð, onsyn blacað, / gomel feax gnornað, wat his iuwine, / æþelinga bearn eorþan forgiefene. / Ne mæg him þonne se flæschoma, þonne him þæt feorg losað, / ne swete forswelgan ne sar gefelan,"
+			- **Phonetic Respelling**: {ÜL-doh him on FAH-reth, ON-sün BLAH-kath, / GOH-mel fé-aks GNOR-nath, waht his YOO-wee-neh, / ÆTH-el-ing-ah BÉ-arn ÉOR-than for-YEF-en-eh. / Neh mægh him THON-neh seh FLÆSH-hoh-mah, THON-neh him thæt FÉ-org LOH-sath, / neh SWAY-teh for-SWEL-ghan neh sahr yeh-FAY-lan,}
+			- **Translation**: (Old age comes upon him, his face pales, / the grey-haired man mourns, knows his former friends, / children of nobles, given over to the earth. / Nor may the flesh-covering {body} for him then, when life departs, / either swallow sweetness nor feel pain,)
+		- **The Ruin**: (Lament for Ruined Structures/Lost Civilization)
+			- **Old English**: "Wrætlic is þes wealstan, wyrde gebræcon; / burgstede burston, brosnað enta geweorc."
+			- **Phonetic Respelling**: {WRÆT-lich is thess WÉ-al-stahn, WÜR-deh yeh-BRÆH-kon; / BURG-steh-deh BUR-ston, BROS-nath EN-tah yeh-WÉ-ork.}
+			- **Translation**: (Wondrous is this wall-stone, fates have broken it; / the city-place has crumbled, the work of giants decays.)
+	- **Ubi Sunt Motif**: (A key expression of this tone, Latin for "Where are...?" It uses rhetorical questions about departed people, objects, or joys to emphasize loss and transience.)
+		- **The Wanderer**:
+			- **Old English**: "Hwær cwom mearg? Hwær cwom mago? / Hwær cwom maþþumgyfa? / Hwær cwom symbla gesetu? Hwær sindon seledreamas?"
+			- **Phonetic Respelling**: {Hwær kwōm MÉ-arg? Hwær kwōm MAH-ghoh? / Hwær kwōm MATH-thum-YIV-ah? / Hwær kwōm SÜM-blah yeh-SEH-too? Hwær SIN-don SEH-leh-dré-ah-mahs?}
+			- **Translation**: "Where has the horse gone? Where the rider (kinsman)? / Where has the treasure-giver (lord) gone? / Where are the seats of the feasts? Where are the joys of the hall?"
+		- **Beowulf**:
+			- **Old English**: "Heald þu nu, hruse, nu hæleð ne mostan, / eorla æhte! Hwæt, hyt ær on þe / gode begeaton; guðdeað fornam, / feorhbealo frecne, fyra gehwylcne / leoda minra þara ðe þis lif ofgeaf, / gesawon seledream. Nah hwa sweord wege / oððe feormie fæted wæge,"
+			- **Phonetic Respelling**: {Hé-ald thoo noo, HROO-seh, noo HÆ-leth neh MOSS-tahn, / ÉOR-lah ÆH-teh! Hwæt, hüt ær on theh / GOH-deh beh-YÉ-ah-ton; GOOTH-dé-ath for-NAHM, / FÉ-orh-bé-ah-loh FREK-neh, FÜ-rah yeh-HWILK-neh / LAY-oh-dah MEEN-rah THAH-rah theh thiss leef ov-YÉ-af, / yeh-SAH-won SEH-leh-dré-am. Nah Hwah swé-ord WEH-yeh / OTH-theh FÉ-or-mee-eh FÆH-ted WÆH-yeh,}
+			- **Translation**: (Hold you now, earth, now that heroes may not, / the possessions of earls! Lo, from you first / good men obtained it; war-death seized, / terrible life-bale, every one / of my people who gave up this life, / they saw hall-joy. I have no one who might bear the sword / or polish the plated cup,)
+		- **The Ruin**: (Describing past life)
+			- **Old English**: "Beorht wæron burgræced, burnsele monige, / heah horngestreon, heresweg micel, / meodoheall monig mondreama full, / oþþæt þæt onwende wyrd seo swiþe."
+			- **Phonetic Respelling**: {Bé-orht WÆH-ron BURG-ræ-ched, BURN-seh-leh MON-ee-yeh, / HAY-ah HORN-yes-tré-on, HEH-reh-swey MIK-el, / MÉ-oh-doh-hal MON-eegh MON-dré-ah-mah full, / oth-thæt thæt on-WEN-deh würd sé-oh SWEE-theh.}
+			- **Translation**: (Bright were the city-buildings, bath-halls many, / high horned-gables, great martial sound, / many a mead-hall full of human joys, / until that Fate the mighty changed it.)
+9. **Formal and Elevated Diction**:
+    - **Archaic/Poetic Vocabulary**: Use of specific, often older or less common words, and a rich synonymy for key concepts like 'warrior', 'lord', 'battle', 'sea'.
+        - **Beowulf**: (Using 'gefrægn' for 'heard')
+            - **Old English**: "Hwæt! We Gar-Dena in geardagum, / þeodcyninga, þrym **gefrunon**,"  
+            - **Phonetic Respelling**: {Hwæt! Way GAR-Day-nah in YÉAR-dah-ghum, / THAY-od-KÜN-ing-ah, thrüm **yeh-FRU-non**,}
+            - **Translation**: (Listen! We of the Spear-Danes in days of yore, / of the people-kings, glory have **heard of**,)
+            - **Explanation**: "**Gefrunon**" (from gefrignan) is a more formal, literary verb for "heard tell of" or "learned through asking" compared to simpler verbs like hieran (to hear). Its use immediately establishes a formal, traditional tone.
+        - **Battle of Maldon**: (Using 'hyssa' and 'eorl' for 'Warrior')
+            - **Old English**: "Het þa **hyssa** hwæne hors forlætan, / feor afysan, and forð gangan, / hicgan to handum and to hige godum. / Þa þæt Offan mæg ærest onfunde, / þæt se **eorl** nolde yrhoðo geþolian,"
+			- **Phonetic Respelling**: {Hayt thah **HÜS-sah** HWÆ-neh hors for-LÆ-tan, / FAY-or ah-FÜ-san, and forth GANG-ahn, / HIK-gan toh HAHN-dum and toh HEE-yeh GOH-dum. / Thah thæt OFF-ahn mæy Æ-rest on-FUN-deh, / thæt seh **É-orl** NOL-deh ÜRR-gh-tho yeh-THOH-lee-an,}
+			- **Translation**: (He then ordered each **young warrior** {hyssa} horse to abandon, / drive far away, and forth to go, / to think on hands {fighting} and on good courage. / When Offa's kinsman first discovered that, / that the **earl** {eorl = Byrhtnoth} would not tolerate cowardice,) 
+			- **Explanation**: The poem uses "**hyssa**" (young warrior/retainer) and then "**eorl**" (nobleman/earl, referring to the leader Byrhtnoth). Elsewhere, terms like beorn, secg, hæleð, cempa, and rinc might be used. This lexical richness elevates the descriptions.
+		- **The Seafarer**: (Evoking 'Sea' through Associated Terms)
+			- **Old English**: "Hwilum **ylfete song** / dyde ic me to gomene, **ganetes hleoþor** / ond **huilpan sweg** fore hleahtor wera, / **mæw singende** fore medodrince. / Stormas þær stanclifu beotan,"
+			- **Phonetic Respelling**: {HWEE-lum **ÜL-feh-teh song** / DÜ-deh ich may toh GOH-meh-neh, **GAH-neh-tes HLAY-oh-thor** / ond **HWIL-pahn swey** foh-reh HLÉ-ah-tor WEH-rah, / **MÆW SING-en-deh** foh-reh MÉ-doh-drink-eh. / STOR-mahs thær STAHN-kli-foo BAY-oh-tahn,}
+			- **Translation**: (Sometimes the **swan's song** / I took to myself for pleasure, the **gannet's cry** / and the **curlew's sound** instead of the laughter of men, / the **gull singing** instead of mead-drinking. / Storms there beat the stone-cliffs,)
+			- **Explanation**: While not direct synonyms for sea, the poem evokes the maritime environment using specific, elevated terms for seabird sounds ("**ylfete song**," "**ganetes hleoþor**," "**huilpan sweg**," "**mæw singende**") creating vivid, poetic imagery instead of simple statement. Kennings like hron-rād or ganotes bæð also exemplify this elevated vocabulary for the sea.
+	- **Ceremonial Language**: Use of formal structures for greetings, boasts, pronouncements, and descriptions of rituals.
+		- **Beowulf**: (Formal Greeting/Introduction)
+			- **Old English**: "Hwæt syndon ge **searohæbbendra**, / **byrnum werede**, þe þus brontne ceol / ofer **lagustræte** lædan cwomon, / hider ofer holmas?"
+			- **Phonetic Respelling**: {Hwæt SÜN-don yay **SÉ-ah-roh-HÆB-ben-drah**, / **BÜR-num WEH-reh-deh**, theh thus BRONT-neh KAY-ohl / OH-ver **LAH-goo-STRÆ-teh** LÆ-dan KWOH-mon, / HI-der OH-ver HOL-mahs?}
+			- **Translation**: (Who are you, **armour-bearers**, / **protected by mail-coats**, who thus a steep keel {ship} / over the **sea-street** have come leading, / hither over the waves?)
+		    - **Explanation**: This is a formal challenge by the Coarstguard to Beowulf using elevated compound terms and kennings like "**searohæbbendra**" (armour-bearers), "**byrnum werede**" (protected by mail-coats), and "**lagustræte**" (sea-street - a kenning) marking the formal nature of the encounter.
+		- **Beowulf**: (Formal Boast - *Gylp*)
+			- **Old English**: "...Ic **þæt hogode**, þa ic on holm gestah, / sæbat gesæt mid minra secga gedriht, / þæt ic **anunga eowra leoda / willan geworhte**, oþðe **on wæl crunge**, / feondgrapum fæst."
+			- **Phonetic Respelling**: {...Ich **thæt HOH-goh-deh**, thah ich on holm yeh-STAH, / SÆ-baht yeh-SÆT mid MEEN-rah SEK-gah yeh-DRIHT, / thæt ich **AH-nung-ah ÉOW-rah LAY-oh-dah / WIL-lahn yeh-WORH-teh**, OTH-theh **on wæl KRUN-yeh**, / FAY-ond-GRAH-pum fæst.}
+			- **Translation**: (...I **resolved that**, when I embarked on the sea, / sat in the sea-boat with my band of warriors, / that I **absolutely of your people / the will would accomplish**, or else **fall in slaughter**, / fast in the fiend's clutches.)
+			- **Explanation**: This is a formal declaration (*gylp*). Beowulf uses formal phrasing like "**Ic þæt hogode**" (I resolved that), "**anunga... willan geworhte**" (absolutely the will would accomplish), and formally acknowledges the alternative of heroic death "**on wæl crunge**" (fall in slaughter).
+		- **Beowulf**: (Ceremonial Gift-Giving)
+			- **Old English**: "Þa gyt Healfdenes sunu **gold angan** / **helm** ond **byrnan**; **het in beran** / **eafor heafodsegn**. **Het þa** ehta mearas / **fætedhleore** on **flet teon**,"
+			- **Phonetic Respelling**: {Thah yüt YOH-vor-tess SOO-noo **gold AHN-gahn** / **helm** ond **BÜR-nahn**; **hayt IN BEH-rahn** / **É-ah-vor HAY-ah-vod-seyn**. **Hayt THAH** EH-htah MAY-ah-rahs / **FÆH-ted-HLAY-oh-reh** on **FLET TAY-on**,}
+			- **Translation**: (Then yet Healfdene's son **bestowed gold** / a **helmet** and **mail-coat**; **ordered brought in** / the **boar head-standard**. **Ordered then** eight horses / with **ornamented cheek-pieces** into the **hall be led**,)
+			- **Explanation**: The description uses formal verbs of bestowal and command ("**angan**," "**het in beran**," "**het... teon**") and precise terms for valuable gifts ("**gold**," "**helm**," "**byrnan**," "**eafor heafodsegn**," "**fætedhleore** mearas"). The setting (**flet** - hall floor) also emphasizes the public, ceremonial nature of the act.
+10. **Blend of Pagan and Christian Elements**:
+	- Poems were typically recorded by Christian scribes, often monks, during a period when England was converting or had converted to Christianity. However, the stories and cultural values often originated in or retained strong echoes of the earlier Germanic/Pagan era. This results in a fascinating, sometimes complex, interweaving of worldviews.
+		- **Beowulf**: (God's Will and Heroic Action/Fate)
+			- **Old English**: "Næs ic **þam magne geþyldig**, / ac me **geuðe ylda Waldend**, / þæt ic on wage geseah wlitig hangian / ealdsweord eacen —oftost wisode / **winigea leasum**— þæt ic **þy wæpne gebræd**."
+			- **Phonetic Respelling**: {Næs ich **thahm MAH-gh-neh yeh-THÜL-diy**, / ak may **yeh-OO-theh ÜL-dah WAL-dend**, / thæt ich on WAH-gheh yeh-SAY-ah WLI-tiy HAHN-gee-ahn / É-ald-swé-ord É-ah-ken — of-tost WEE-soh-deh / **WIN-ee-yah LÉ-ah-sum**— thæt ich **thüy WÆP-neh yeh-BRÆD**.}
+		    - **Translation**: (I was not **trusting in that strength** {of Hrunting}, / but the **Ruler of Men granted me**, / that I saw beautiful hanging on the wall / an ancient sword, gigantic — often He has guided / the **friendless man**— that I **drew that weapon**.)
+			- **Explanation**: Beowulf explicitly credits God ("**ylda Waldend**" - Ruler of Men, a Christian periphrasis) for allowing him to see the giant sword. God guides the "**winigea leasum**" (friendless one), reflecting Christian care for the desolate. Yet, the heroic action is still Beowulf's ("ic **þy wæpne gebræd**" - I drew that weapon), and elsewhere he speaks of Fate (Wyrd). The passage shows Christian attribution of divine aid alongside the necessity of heroic agency. The idea of God helping the "friendless" could also resonate with the pagan theme of the exiled warrior needing a patron.
+		- **Beowulf**: (Grendel's Pagan Origin via Christian Lens)
+			- **Old English**: "þanon untydras ealle onwocon, / eotenas ond ylfe ond orcneas, / swylce gigantas, þa wið **Gode wunnon** / lange þrage; he him ðæs lean forgeald. / ... / Caines cynne — þone **ece Drihten** / þæs morþres **gewræc**,"
+			- **Phonetic Respelling**: {THAH-non un-TÜ-drahs AL-leh on-WOH-kon, / É-oh-teh-nahs ond ÜL-veh ond ORK-nay-ahs, / SWIL-cheh YEE-ghan-tahs, thah with **GOH-deh WUN-non** / LAHN-geh THRAH-geh; hay him thæs lay-ahn for-YÉ-ald. / ... / KAH-ee-ness KÜN-neh — thon-neh **EH-cheh DRÜH-ten** / thæs MOR-thress **yeh-WRÆK**,}
+			- **Translation**: (From thence all misbegotten things awoke, / ettins {giants} and elves and evil spirits, / likewise giants, those who **strove against God** / for a long time; He paid them reward for that. / ... / Cain's kin — whom the **eternal Lord** / **avenged** for that murder,)
+			- **Explanation**: The list of monstrous creatures ("eotenas," "ylfe," "orcneas," "gigantas") belongs to Germanic folklore (Pagan elements). However, the poet immediately frames their ancient struggle as being against the Christian **God** ("**wið Gode wunnon**"). Grendel himself is identified as belonging to "**Caines cynne**" (Cain's kin), punished by the "**ece Drihten**" (eternal Lord - Christian God) who "**gewræc**" (avenged) Abel's murder. This integrates a creature of folklore into a biblical, Christian moral framework.
+		- **The Dream of the Rood**: (Christ as Heroic Lord, Cross as Loyal Thane)
+			- **Old English**: "**Geseah** ic þa **Frean mancynnes** / **efstan elne micle** þæt he me wolde on gestigan. / Þær ic þa ne dorste bugan oððe berstan, / þa ic bifian geseah eorðan sceatas. / Ealle ic mihte feondas gefyllan, hwæðre ic **fæste stod**. / **Ongyrede hine þa geong hæleð, (þæt wæs God ælmihtig)** / **strang ond stiðmod**; gestah he on gealgan heanne, / **modig** on manigra gesyhðe, þa he wolde mancyn lysan."
+			- **Phonetic Respelling**: {**yeh-SAY-ah** ich thah **FRÉ-ahn MAN-kün-ness** / **EF-stahn EL-neh MIK-leh** thæt hay may WOL-deh on yeh-STEE-gahn. / Thær ich thah neh DORS-teh BOO-gahn OTH-theh BERS-tahn, / thah ich BI-fee-ahn yeh-SAY-ah ÉOR-than SHÉ-ah-tahs. / AL-leh ich MIH-teh FAY-ohndahs yeh-FÜL-lahn, HWÆTH-reh ich **FÆS-teh STOD**. / **On-YÜR-eh-deh HEE-neh thah YÉ-ong HÆ-leth, (thæt wæs God æl-MIH-tiy)** / **STRANG ond STEETH-mod**; yeh-STAH hay on YÉ-al-gahn HAY-ah-neh, / **MOH-diy** on MAH-nee-grah yeh-SÜH-theh, thah hay WOL-deh MAN-kün LÜ-sahn.}
+			- **Translation**: (I **saw** then the **Lord of mankind** / **hasten with great courage** that he wished to mount upon me {the Cross}. / There I then dared not bow or break, / when I saw earth's surfaces tremble. / All foes I could have felled, yet I **stood fast**. / **Stripped himself then the young hero (that was God almighty),** / **strong and resolute**; he ascended the high gallows, / **brave** in the sight of many, when he wished mankind to redeem.) 
+			- **Explanation**: Christ ("**Frean mancynnes**" - Lord of mankind) is depicted not just as a sacrifice, but as an active, heroic figure who "**efstan elne micle**" (hastens with great courage) to mount the cross like a warrior eager for battle. He is called a "**geong hæleð**" (young hero), "**strang ond stiðmod**" (strong and resolute), and "**modig**" (brave) – all terms from the heroic warrior ideal (Pagan-derived values). The Cross acts like a loyal retainer (**thane**) who suffers with his lord and refuses to yield ("ic **fæste stod**"), fulfilling its duty within the comitatus bond, even though it serves the ultimate Christian purpose ("mancyn lysan" - redeem mankind).
+		- **The Wanderer**: (The deep sorrow of Germanic exile and loss of a lord with a concluding Christian consolation)
+			- **Old English**: "Wel bið þam þe him **are seceð**, / **frofre** to **Fæder on heofonum**, þær us eal **seo fæstnung stondeð**."
+			- **Phonetic Respelling**: {Wel bith thahm theh him **AH-reh SAY-cheth**, / **FROH-vreh** toh **FÆ-der on HÉ-oh-voh-num**, thær us é-al **sé-oh FÆST-nung STON-deth**.}
+			- **Translation**: (Well is it for him who **seeks mercy** {grace}, / **comfort** from the **Father in heavens**, where for us all **that security stands**.)
+			- **Explanation**: The poem spends most of its length detailing the profound misery and isolation of the exiled warrior, lamenting the loss of his lord and companions (a core theme rooted in the Pagan heroic world). The ubi sunt passage exemplifies this deep earthly sorrow. However, the poem concludes with this explicitly Christian message: true solace ("**frofre**" - comfort) and security ("**seo fæstnung**" - the security/permanence) are not found on transient earth but through seeking God's grace ("**are seceð**") from the heavenly "**Fæder on heofonum**" (Father in heavens). The pagan despair finds a Christian resolution near the end.
+
+
+
+
